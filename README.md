@@ -8,7 +8,26 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 
 ## 🚀 Projects
 
-### 1. 🌐 Zakron IT Industry Website
+
+### 1. 🌐 My Portfolio
+**Description**: I have Used 3d Models and 2d animations with unique styling. Showcased all of my projects. 
+
+![My Portfolio](https://github.com/Zakronindustry/2D-Projects-Animations/blob/main/Portfolio1.gif) 
+
+**[Live Demo](https://pranay-p0rtf0li0.vercel.app/)**
+
+---
+
+### 2. 🌐 Instagram Clone
+**Description**: I have tried to mimic Instagram's Post section and Stories section to showcase my Front-end skills.
+
+![CATGRAM](https://github.com/Zakronindustry/2D-Projects-Animations/blob/main/catgram.gif) 
+
+**[Live Demo](https://c0pycatgram.vercel.app/)**
+
+---
+
+### 3. 🌐 Zakron IT Industry Website
 **Description**: This is a company website for Zakron IT Industry. It showcases the services and solutions offered by the company.
 
 ![Zakron IT Industry Website](https://github.com/Zakronindustry/2D-Projects-Animations/blob/main/zakron(2).gif) 
@@ -17,7 +36,7 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 
 ---
 
-### 2. 🔷 Connecting Dots
+### 4. 🔷 Connecting Dots
 **Description**: This project features a dynamic background with changing gradients and animated connecting dots. The interactive design creates a visually captivating experience.
 
 ![Connecting Dots](https://github.com/Zakronindustry/2D-Projects-Animations/blob/main/connectingdots.gif)
@@ -26,7 +45,7 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 
 ---
 
-### 3. 🧊 Rotating Cube
+### 5. 🧊 Rotating Cube
 **Description**: This project showcases a 3D rotating metallic cube. The cube is rendered with realistic metallic textures and features special shaking text effects, adding to the visual appeal.
 
 ![Rotating Cube](https://github.com/Zakronindustry/2D-Projects-Animations/blob/main/Recording%202024-07-17%20133630(1).gif) 
@@ -35,7 +54,7 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 
 ---
 
-### 4. 🌊 Ripple Effect
+### 6. 🌊 Ripple Effect
 **Description**: This project demonstrates an engaging ripple effect animation. Click anywhere on the screen to create ripples that interact with floating text elements, adding a playful and dynamic touch to the design.
 
 ![Ripple Effect](https://github.com/Zakronindustry/2D-Projects-Animations/blob/main/ripple.gif) <!-- Update with actual link -->
