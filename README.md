@@ -4,6 +4,12 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 
 > **Note:** These websites are only available for desktop; mobile versions are not available.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakronindustry)
+
+![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakronindustry\&rank_icon=github\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
+
+
 ---
 
 ## 🚀 Projects
