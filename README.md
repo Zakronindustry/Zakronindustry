@@ -4,10 +4,8 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 
 > **Note:** These websites are only available for desktop; mobile versions are not available.
 
+## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakronindustry)
-
-![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakronindustry\&rank_icon=github\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-
 
 
 ---
@@ -83,6 +81,14 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 - **EC-Council Certified Penetration Tester (ECPPT)**
 - **eLearnSecurity Junior Penetration Tester (eJPT)**
 
+## Github
+
+![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakronindustry\&rank_icon=github\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zakronindustry)](https://github.com/Zakronindustry/github-profile-trophy)
+<img align="right" src="https://komarev.com/ghpvc/?username=Zakronindustry&style=flat-square&color=1f6feb">
 ## 📞 Contact
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/pranay-jain-08b74a311/) or via [Email](mailto:pranayjain1001@gmail.com).
