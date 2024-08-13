@@ -30,8 +30,24 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 **[Live Demo](https://petflix-pr0ject.vercel.app/)**
 
 ---
+### 3. 🌐 REGAL
+**Description**: Experience the elegance of a dark theme with 3D rotating cards and regal dominion style, all crafted using Tailwind CSS and custom CSS.
 
-### 3. 🌐 Instagram Clone
+![REGAL](https://github.com/Zakronindustry/2D-Projects-Animations/blob/main/Regal.gif) 
+
+**[Live Demo](https://regal-d0minion.vercel.app/)**
+
+---
+### 4. 🌐 Youtube Clone
+**Description**: I have tried to mimic YouTube's Home section and nNavBar section to showcase my Front-end skills.
+
+![YOUTUBE](https://github.com/Zakronindustry/2D-Projects-Animations/blob/main/youtube.png) 
+
+**[Live Demo](https://youtube-cl0ne.vercel.app/)**
+
+
+---
+### 5. 🌐 Instagram Clone
 **Description**: I have tried to mimic Instagram's Post section and Stories section to showcase my Front-end skills.
 
 ![CATGRAM](https://github.com/Zakronindustry/2D-Projects-Animations/blob/main/catgram.gif) 
@@ -40,7 +56,7 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 
 ---
 
-### 4. 🌐 Zakron IT Industry Website
+### 6. 🌐 Zakron IT Industry Website
 **Description**: This is a company website for Zakron IT Industry. It showcases the services and solutions offered by the company.
 
 ![Zakron IT Industry Website](https://github.com/Zakronindustry/2D-Projects-Animations/blob/main/zakron(2).gif) 
@@ -49,7 +65,7 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 
 ---
 
-### 5. 🔷 Connecting Dots
+### 7. 🔷 Connecting Dots
 **Description**: This project features a dynamic background with changing gradients and animated connecting dots. The interactive design creates a visually captivating experience.
 
 ![Connecting Dots](https://github.com/Zakronindustry/2D-Projects-Animations/blob/main/connectingdots.gif)
@@ -58,7 +74,7 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 
 ---
 
-### 6. 🧊 Rotating Cube
+### 8. 🧊 Rotating Cube
 **Description**: This project showcases a 3D rotating metallic cube. The cube is rendered with realistic metallic textures and features special shaking text effects, adding to the visual appeal.
 
 ![Rotating Cube](https://github.com/Zakronindustry/2D-Projects-Animations/blob/main/Recording%202024-07-17%20133630(1).gif) 
@@ -67,7 +83,7 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 
 ---
 
-### 7. 🌊 Ripple Effect
+### 9. 🌊 Ripple Effect
 **Description**: This project demonstrates an engaging ripple effect animation. Click anywhere on the screen to create ripples that interact with floating text elements, adding a playful and dynamic touch to the design.
 
 ![Ripple Effect](https://github.com/Zakronindustry/2D-Projects-Animations/blob/main/ripple.gif) <!-- Update with actual link -->
