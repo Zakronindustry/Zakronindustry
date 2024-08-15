@@ -7,6 +7,8 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakronindustry)
 
+<img align="right" src="https://komarev.com/ghpvc/?username=Zakronindustry&style=flat-square&color=1f6feb">
+
 
 ---
 
@@ -104,7 +106,7 @@ Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative
 ## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zakronindustry)](https://github.com/Zakronindustry/github-profile-trophy)
-<img align="right" src="https://komarev.com/ghpvc/?username=Zakronindustry&style=flat-square&color=1f6feb">
+
 ## 📞 Contact
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/pranay-jain-08b74a311/) or via [Email](mailto:pranayjain1001@gmail.com).
